@@ -5,4 +5,3 @@ This tool works by giving you a user-friendly list of the available policy setti
 
 ## Requirements:
 - `ViveTool`: Used to enable the rollout features
-- `NSudo`: Used to elevate this appliation so that we can modify the JSON file that controls the EEU settings
